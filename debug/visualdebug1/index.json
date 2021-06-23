@@ -2,6 +2,6 @@
 	"htmlpages":[
 		{"filename":"visualdebug1_en.html",lang:"en"},
 		{"filename":"visualdebug1_jp.html",lang:"jp"},
-		{"filename":"visualdebug1_1502_en.html",lang:"en","version":1502},
+		{"filename":"visualdebug1_1502_en.html","lang":"en","version":1502}
 	]
 }
