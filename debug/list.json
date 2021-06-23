@@ -1,0 +1,9 @@
+{
+	"mainRepoPages":"https://henytjin.github.io/IBMEclipseTipsOfDay",
+	"tipsPages":
+	[
+		{"relativePath": "debug/visualdebug/visualdebug1_en.html", "subject": "Visual Debug", "lang":"en", "ver": ""},
+		{"relativePath": "debug/visualdebug/visualdebug1_cn.html", "subject": "Visual Debug", "lang":"cn", "ver": ""},
+		{"relativePath": "debug/concurrentdcc/dcc1_en.html", "subject": "Concurrent Debug and Code Coverage", "lang":"en", "ver": "15.0.1"}
+	]
+}
