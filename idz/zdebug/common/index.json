@@ -6,13 +6,13 @@
 		{"subject":"Visual Debug 1","pages":[
 			{"relativePath":"/visualdebug1/visualdebug1_en.html", "lang":"en"},
 			{"relativePath":"/visualdebug1/visualdebug1_jp.html", "lang":"jp"},
-			{"relativePath":"/visualdebug1/visualdebug1_en.html", "lang":"jp", "ver":"1502"}
+			{"relativePath":"/visualdebug1/visualdebug1_en.html", "lang":"jp", "ver":"150"}
 		]},
 		{"subject":"Conditional Breakpoint","pages":[
 			{"relativePath":"/breakpointConditional/breakpointConditional_en.html"},
 			{"relativePath":"/breakpointConditional/breakpointConditional_cn.html","lang":"cn"},
-			{"relativePath":"/breakpointConditional/breakpointConditional_1500_en.html","ver":"1500"},
-			{"relativePath":"/breakpointConditional/breakpointConditional_1500_jp.html","ver":"1500","lang":"jp"}
+			{"relativePath":"/breakpointConditional/breakpointConditional_1500_en.html","ver":"150"},
+			{"relativePath":"/breakpointConditional/breakpointConditional_1500_jp.html","ver":"150","lang":"jp"}
 		]}
 	]
 }
