@@ -1,18 +1,10 @@
 {
-	"type":"subcategory",
-	"path":"/zdebug/common",
-	"rootUrl":"",
-	"tips":[
-		{"subject":"Visual Debug 1","pages":[
-			{"relativePath":"/v41/visualdebug1/visualdebug1_en.html", "lang":"en","ver":"141"},
-			{"relativePath":"/v41/visualdebug1/visualdebug1_jp.html", "lang":"jp","ver":"141"}
-		]},
-		{"subject":"Conditional Breakpoint","pages":[
-			{"relativePath":"/140/breakpointConditional/breakpointConditional_en.html"},
-			{"relativePath":"/140/breakpointConditional/breakpointConditional_jp.html","lang":"jp"}
-		]},
-		{"subject":"Concurrent Debug and Code Coverage","pages":[
-			{"relativePath":"/150/concurrentdcc/concurrentdcc_en.html","ver":"150"}
-		]}
+	"mainRepoPages":"https://henytjin.github.io/IBMEclipseTipsOfDay",
+	"path":"/idz/zdebug/common",
+	"tipsPages":
+	[
+		{"path":"/en/v140/breakpointConditional/breakpointCOnditional_en.html"},
+		{"path":"/en/v141/visualdebug1/visualdebug1_en.html"},
+		{"path":"/en/v150/concurrentdcc/concurrentdcc_en.html"}
 	]
 }
