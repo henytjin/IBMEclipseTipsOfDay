@@ -1,0 +1,10 @@
+{
+	"mainRepoPages":"https://henytjin.github.io/IBMEclipseTipsOfDay",
+	"path":"/idz/zdebug/common",
+	"tipsPages":
+	[
+		{"path":"/en/v140/breakpointConditional/breakpointCOnditional_en.html"},
+		{"path":"/en/v141/visualdebug1/visualdebug1_en.html"},
+		{"path":"/en/v150/concurrentdcc/concurrentdcc_en.html"}
+	]
+}

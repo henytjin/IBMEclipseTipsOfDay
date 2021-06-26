@@ -1,18 +1,18 @@
 {
 	"type":"subcategory",
-	"path":"/debug/common",
+	"path":"/zdebug/common",
 	"rootUrl":"",
 	"tips":[
 		{"subject":"Visual Debug 1","pages":[
-			{"relativePath":"/visualdebug1/visualdebug1_en.html", "lang":"en"},
-			{"relativePath":"/visualdebug1/visualdebug1_jp.html", "lang":"jp"},
-			{"relativePath":"/visualdebug1/visualdebug1_en.html", "lang":"jp", "ver":"150"}
+			{"relativePath":"/v41/visualdebug1/visualdebug1_en.html", "lang":"en","ver":"141"},
+			{"relativePath":"/v41/visualdebug1/visualdebug1_jp.html", "lang":"jp","ver":"141"}
 		]},
 		{"subject":"Conditional Breakpoint","pages":[
-			{"relativePath":"/breakpointConditional/breakpointConditional_en.html"},
-			{"relativePath":"/breakpointConditional/breakpointConditional_cn.html","lang":"cn"},
-			{"relativePath":"/breakpointConditional/breakpointConditional_1500_en.html","ver":"150"},
-			{"relativePath":"/breakpointConditional/breakpointConditional_1500_jp.html","ver":"150","lang":"jp"}
+			{"relativePath":"/140/breakpointConditional/breakpointConditional_en.html"},
+			{"relativePath":"/140/breakpointConditional/breakpointConditional_jp.html","lang":"jp"}
+		]},
+		{"subject":"Concurrent Debug and Code Coverage","pages":[
+			{"relativePath":"/150/concurrentdcc/concurrentdcc_en.html","ver":"150"}
 		]}
 	]
 }
